@@ -1,0 +1,14 @@
+
+L
+java:S1611"/Remove the parentheses around the "s" parameter(—¾•Ü8”ƒßÒ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤™Êäşÿÿÿÿ
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ëÛûÒ0
+w
+java:S4276""ZRefactor this code to use the more specialised Functional Interface 'UnaryOperator<int[]>'( …Ûú8àĞÌÒ0
+x
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ª²ÌÛ8òö°Ò0
+t
+java:S4276"WRefactor this code to use the more specialised Functional Interface 'Predicate<String>'(—¾•Ü8×öİÒ0
+>
+java:S1643"Use a StringBuilder instead.(ìÃ«µøÿÿÿÿ8ãÔ¹Ò0
